@@ -1,6 +1,7 @@
-# DMtermProjectTutorialSmitJoshi
 
-This is a readme for Titanic Tutorial on Kaggle. 
+# Titanic Tutorial - Kaggle Challenge 
 
---Smit
-[x]
+
+
+This is a blog about my first kaggle challenge. 
+
